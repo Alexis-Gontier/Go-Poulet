@@ -1,1 +1,2 @@
 # Go-Poulet
+Arigatô gozaimasu
